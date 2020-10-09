@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Image](https://raw.githubusercontent.com/lablnet/lablnet.github.io/master/umer.png)
 
 <!--
 **Lablnet/Lablnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
