@@ -12,12 +12,12 @@
 
 ###  About Me
 - Third Year BSSE undergraduate student interested in Computer programming, cloud infrastructure, Artificial Intelligence and Operating System.
-- CEO at <a href="https://alphaosfthub.com">AlphaSoftHub Pvt Ltd</a>
+- CEO at <a href="https://alphasofthub.com/" target="_blank">AlphaSoftHub Pvt Ltd</a>
 - Love  building `cool` open source projects.
-- CV: https://lablnet.github.io/resume/
-- Portfolio: https://lablnet.github.io/
-- Freelancer at [Upwork](https://www.upwork.com/freelancers/lablnet)
-- Support me at [Patreon](https://www.patreon.com/lablnet)
+- CV: <a href="https://lablnet.github.io/resume" target="_blank">https://lablnet.github.io/resume/</a>
+- Portfolio: <a href="https://lablnet.github.io" target="_blank">https://lablnet.github.io</a>
+- Freelancer at <a href="https://www.upwork.com/freelancers/lablnet" target="_blank">Upwork</a>
+- Support at <a href="https://www.patreon.com/lablnet" target="_blank">Patreon</a>
 
 > Whenever the people don't like to talk with me. So why would i wish to talk with them!!!!! 
 > -- Umer
