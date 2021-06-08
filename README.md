@@ -18,7 +18,7 @@
 - Support me at [Patreon](https://www.patreon.com/lablnet)
 
 > Whenever the people don't like to talk with me. So why would i wish to talk with them!!!!! 
-> _ Umer
+> -- Umer
 > 
 [For more quotes of Umer visit.](https://lablnet.github.io/quotes)
 
