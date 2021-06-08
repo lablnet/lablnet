@@ -13,7 +13,9 @@
 ###  About Me
 - Third Year BSSE undergraduate student interested in Computer programming, cloud infrastructure, Artificial Intelligence and Operating System.
 - CEO at <a href="https://alphaosfthub.com">AlphaSoftHub Pvt Ltd</a>
-- Busy in building `cool` open source projects
+- Love  building `cool` open source projects.
+- CV: https://lablnet.github.io/resume/
+- Portfolio: https://lablnet.github.io/
 - Freelancer at [Upwork](https://www.upwork.com/freelancers/lablnet)
 - Support me at [Patreon](https://www.patreon.com/lablnet)
 
@@ -23,17 +25,3 @@
 [For more quotes of Umer visit.](https://lablnet.github.io/quotes)
 
 ![Stat](https://github-readme-stats.vercel.app/api/?username=lablnet&theme=shades-of-purple&show_icons=true&count_private=true)
-<!--
-**Lablnet/Lablnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
