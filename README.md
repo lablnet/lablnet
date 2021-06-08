@@ -17,6 +17,11 @@
 - Freelancer at [Upwork](https://www.upwork.com/freelancers/lablnet)
 - Support me at [Patreon](https://www.patreon.com/lablnet)
 
+> Whenever the people don't like to talk with me. So why would i wish to talk with them!!!!! 
+> _ Umer
+> 
+[For more quotes of Umer visit.](https://lablnet.github.io/quotes)
+
 ![Stat](https://github-readme-stats.vercel.app/api/?username=lablnet&theme=shades-of-purple&show_icons=true&count_private=true)
 <!--
 **Lablnet/Lablnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
