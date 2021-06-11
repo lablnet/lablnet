@@ -10,6 +10,9 @@
 
 <br />
 
+![Join Github](https://badges.pufler.dev/years/lablnet)
+<br />
+
 ###  About Me
 - Third Year BSSE undergraduate student interested in Computer programming, cloud infrastructure, Artificial Intelligence and Operating System.
 - CEO at <a href="https://alphasofthub.com/" target="_blank">AlphaSoftHub Pvt Ltd</a>
