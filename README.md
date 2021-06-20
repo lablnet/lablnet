@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 <a href="https://twitter.com/lablnet">
   <img align="left" alt="Muhammad Umer Farooq" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -8,9 +8,6 @@
   <img align="left" alt="Muhammad Umer Farooq" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<br />
-
-![Join Github](https://badges.pufler.dev/years/lablnet)
 <br />
 
 ###  About Me
@@ -26,5 +23,3 @@
 > -- Umer
 > 
 [For more quotes of Umer visit.](https://lablnet.github.io/quotes)
-
-![Stat](https://github-readme-stats.vercel.app/api/?username=lablnet&theme=shades-of-purple&show_icons=true&count_private=true)
