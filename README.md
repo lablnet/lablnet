@@ -18,6 +18,7 @@
 - Portfolio: <a href="https://lablnet.github.io" target="_blank">https://lablnet.github.io</a>
 - Freelancer at <a href="https://www.upwork.com/freelancers/lablnet" target="_blank">Upwork</a>
 - Support at <a href="https://www.patreon.com/lablnet" target="_blank">Patreon</a>
+- Join at <a href="https://discord.gg/Hr7WxPdG">Discord</a>
 
 > Whenever the people don't like to talk with me. So why would i wish to talk with them!!!!! 
 > -- Umer
