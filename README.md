@@ -20,7 +20,7 @@
 - Support at <a href="https://www.patreon.com/lablnet" target="_blank">Patreon</a>
 - Join at <a href="https://discord.gg/Hr7WxPdG">Discord</a>
 
-> Whenever the people don't like to talk with me. So why would i wish to talk with them!!!!! 
+> The world and life are very cruel, I wish I had never been born
 > -- Umer
 > 
 [For more quotes of Umer visit.](https://lablnet.github.io/quotes)
