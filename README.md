@@ -1,7 +1,7 @@
 ### Hi there
 
 ###  About Me
-- Third Semester BSSE undergraduate student interested in Computer programming, cloud infrastructure, Artificial Intelligence and Operating System.
+- 4th Semester BSSE undergraduate student interested in Computer programming, cloud infrastructure, Artificial Intelligence and Operating System.
 - CEO at <a href="https://alphasofthub.com/" target="_blank">AlphaSoftHub Pvt Ltd</a>
 - Love  building `cool` open source projects.
 - CV: <a href="https://lablnet.github.io/resume" target="_blank">https://lablnet.github.io/resume/</a>
